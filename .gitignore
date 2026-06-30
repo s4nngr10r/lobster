@@ -1,0 +1,12 @@
+build/
+build-arrow-check/
+.DS_Store
+**/.DS_Store
+
+data/sample/binance-live.bin
+data/sample/binance-live-footer.bin
+data/sample/binance-bench.bin
+data/sample/binance-bench.csv
+data/sample/binance-bench.arrow
+data/sample/sample-features.csv
+data/sample/sample-features.arrow
