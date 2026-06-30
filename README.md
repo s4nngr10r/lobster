@@ -69,7 +69,7 @@ The journal stores canonical per-level events after sync, with a local monotonic
 
 Prices and quantities are scaled fixed-point integers with `1e8` precision.
 
-A concrete live-capture workflow is documented in [docs/binance-capture.md](/Users/s4nngr10r/aproj/lobster/docs/binance-capture.md).
+A concrete live-capture workflow is documented in [docs/binance-capture.md](docs/binance-capture.md).
 
 ## Legacy Fixture Capture
 
@@ -146,4 +146,4 @@ This version is built around the parts that seemed most fun to prototype:
 - low-allocation book rebuild
 - benchmarkable code paths
 
-See [docs/architecture.md](/Users/s4nngr10r/aproj/lobster/docs/architecture.md) and [docs/data-format.md](/Users/s4nngr10r/aproj/lobster/docs/data-format.md).
+See [docs/architecture.md](docs/architecture.md) and [docs/data-format.md](docs/data-format.md).
